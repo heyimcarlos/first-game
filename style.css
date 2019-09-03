@@ -70,11 +70,11 @@ body {
   border-radius: 10px;
   background: #ecf0f1;
   color: #2c3e50;
-  font-size: 1.5em;
+  font-size: 2rem;
   position: absolute;
   top: 50%;
   left: 50%;
-  font-family: cursive;
+  /* font-family: cursive; */
   transform: translate(-50%, -50%) scale(.95);
 }
 
